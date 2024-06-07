@@ -31,10 +31,3 @@ This script outputs the box plot for SEQC, shuffled and reverse complement versi
 
 Star_output_conversion.py \
 The output of STAR-count include multiple columns. This script extract the gene counts. 
-
-
-
-
-
-
-![image](https://github.com/FatemehMhbi/RNA-Seq-reproducibility/assets/37184769/a0b60a39-e97a-4aac-8586-b32e264e6716)
